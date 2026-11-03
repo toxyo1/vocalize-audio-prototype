@@ -1,0 +1,13 @@
+# Cliente (gravação)
+sounddevice
+soundfile
+requests
+ 
+# API (recepção)
+fastapi
+uvicorn
+python-multipart
+ 
+# Processamento do áudio
+vosk
+pydub
